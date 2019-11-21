@@ -1,6 +1,6 @@
 ~~Markdown 연습용입니다.~~
 
-# salad project (사라다 프로젝트)
+# project SALAD (사라다 프로젝트)
 
 [참고(Notion)](https://www.notion.so/yyskr/2019-11-898f4de6342f423d969f0115e7c598b4)
 
