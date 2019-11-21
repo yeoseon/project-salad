@@ -1,6 +1,24 @@
-# salad_plan
-2019.11~ Planning for salad project (search, decision, information, think ... and so on) 
+*미리 적는 README.md*
+
+# salad project (사라다 프로젝트)
+```
+사 :: 사실  
+
+라 :: 라디오 아니고
+
+다 :: 다이어리 어플임
+```
+
+새로운 기술 및 지식의 습득을 위해 방송기술 천재이자 비 개발전공자 3명과 4년차 주니어 개발자 1명이 모여 고군분투하는 프로젝트.
+
+어떻게 될 지 아무도 모름.
 
 ---
+
+## 회의록
+
+## Idea
+
+## Research
 
 [기술 스펙 결정을 위한 조사](https://www.notion.so/yyskr/8da6d3d01eb142a7a0da706121bcb8e7)
