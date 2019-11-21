@@ -17,7 +17,7 @@
 
 [Google 공유 문서](https://docs.google.com/document/d/1UAlR1g5rtpjr_n1o1QxGnAYv2GTKcW2O4Gn5WbUv9t8/edit?ts=5dce8276)
 
-## 회의록
+## Meeting
 
 [2019.11.15 프로젝트 개요(첫만남)](https://www.notion.so/yyskr/2019-11-15-aa359620d4984f728a6a24cbac60c2c9)
 
