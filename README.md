@@ -25,9 +25,11 @@
 
 ## Meeting
 
-###### 회의록
+###### 회의 준비 및 회의록
 
 [2019.11.15 프로젝트 개요(첫만남)](https://www.notion.so/yyskr/2019-11-15-aa359620d4984f728a6a24cbac60c2c9)
+
+[2019.11.21](https://www.notion.so/yyskr/c0025957883d4a38b9f228e11eb7ff13)
 
 ## Ideas
 
