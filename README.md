@@ -64,6 +64,13 @@
 
 [(윤) 기술 스펙 결정을 위한 조사](https://www.notion.so/yyskr/8da6d3d01eb142a7a0da706121bcb8e7)
 
+
+## Advices 
+
+###### 프로젝트 수행 과정에서 얻은 조언들
+
+[2019.11.22 From Jay :: 환경 구성을 위한 질문 및 답변](https://www.notion.so/yyskr/24f7f5ef7a9443ce8fa2fd819f033b39)
+
 ## Think
 
 ###### 프로젝트를 진행하면서 드는 생각 정리
