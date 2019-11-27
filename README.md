@@ -1,4 +1,5 @@
 ~~Markdown 연습용입니다.~~
+~~나중에 진행기록 dir에 옮기고, main에는 매뉴얼 위주의 내용을 넣도록 수정 예정~~
 
 # project SALAD (사라다 프로젝트)
 
@@ -29,7 +30,9 @@
 
 [2019.11.15 프로젝트 개요(첫만남)](https://www.notion.so/yyskr/2019-11-15-aa359620d4984f728a6a24cbac60c2c9)
 
-[2019.11.21](https://www.notion.so/yyskr/c0025957883d4a38b9f228e11eb7ff13)
+[2019.11.21 기능 구체화](https://www.notion.so/yyskr/2019-11-22-3122df977f694cf49e4f33c47ed2717d)
+
+[2019.11.29 ver 1 specification 결정]()
 
 ## Ideas
 
