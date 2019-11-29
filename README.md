@@ -23,7 +23,7 @@
 
 ###### 시스템 스펙 정리
 
-[Google 공유 문서](https://docs.google.com/document/d/1UAlR1g5rtpjr_n1o1QxGnAYv2GTKcW2O4Gn5WbUv9t8/edit?ts=5dce8276)
+[Google 공유 문서](https://drive.google.com/drive/u/1/folders/1taZZVpSCMBUXLyE1AuQWt86KxLFCKRu4)
 
 ## Meeting
 
