@@ -2,6 +2,8 @@
 
 ~~나중에 진행기록 dir에 옮기고, main에는 매뉴얼 위주의 내용을 넣도록 수정 예정~~
 
+[Repository](https://github.com/project4rada/4rada)
+
 # project SALAD (사라다 프로젝트)
 
 [참고(Notion)](https://www.notion.so/yyskr/2019-11-898f4de6342f423d969f0115e7c598b4)
